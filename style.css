@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&;700display=swap');
 
 :root {
-    --left-bg-color: rgba(87, 84, 236, 0.7);
-    --right-bg-color: rgba(43, 43, 43, 0.8);
-    --left-btn-hover-color: rgba(87, 84, 236, 1);
-    --right-btn-hover-color: rgba(87, 84, 236, 1);
+    --left-bg-color: rgba(20, 120, 120, 0.6);
+    --right-bg-color: rgba(10, 42, 65, 0.7);
+    --left-btn-hover-color: rgba(20, 120, 120, 1);
+    --right-btn-hover-color: rgba(10, 42, 65, 1);
     --hover-widht: 75%;
     --other-widht: 25%;
     --speed: 1000ms;
@@ -42,6 +42,7 @@ h1 {
     text-decoration: none;
     color: #fff;
     border: #fff solid 0.2rem;
+    border-radius: 55px;
     font-size: 1rem;
     font-weight: bold;
     text-transform: uppercase;
