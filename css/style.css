@@ -102,7 +102,7 @@ h1 {
     background-color: var(--right-bg-color);
 }
 
-.hover-left .left{
+.hover-left .left {
     width: var(--hover-widht);
 }
 
@@ -110,7 +110,7 @@ h1 {
     width: var(--other-width);
 }
 
-.hover-right .right{
+.hover-right .right {
     width: var(--hover-widht);
 }
 
