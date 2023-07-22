@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&;700display=swap');
 
 :root {
-    --left-bg-color: rgba(105, 172, 194, 0.7);
-    --right-bg-color: rgba(156, 160, 161, 0.8);
-    --left-btn-hover-color: rgba(105, 172, 194, 1);
-    --right-btn-hover-color: rgba(156, 160, 161, 1);
-    --hover-width: 75%;
-    --other-width: 25%;
+    --left-bg-color: rgba(87, 84, 236, 0.7);
+    --right-bg-color: rgba(43, 43, 43, 0.8);
+    --left-btn-hover-color: rgba(87, 84, 236, 1);
+    --right-btn-hover-color: rgba(87, 84, 236, 1);
+    --hover-widht: 75%;
+    --other-widht: 25%;
     --speed: 1000ms;
 }
 
@@ -115,7 +115,7 @@ h1 {
 }
 
 .hover-left .right {
-    width: var(--other-width);
+    width: var(--other-widht);
 }
 
 .hover-right .right {
@@ -123,7 +123,7 @@ h1 {
 }
 
 .hover-right .left {
-    width: var(--other-width);
+    width: var(--other-widht);
 }
 
 @media(max-width: 800px) {
